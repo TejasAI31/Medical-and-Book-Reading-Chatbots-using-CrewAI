@@ -10,8 +10,6 @@ The model uses the Gemini "Embedder-001" to chunk embed the provided pdf's into 
 Since crewai internally uses "EmbedChain" as the embedding tool, hence even local embedding models such as Ollama can be used to locally embed the database.
 
 Required installs:
-1-CREWAI
-pip install crewai
+1-CREWAI(pip install crewai)
 
-2-CREWAWITOOLS:
-pip install crewai-tools
+2-CREWAWITOOLS:(pip install crewai-tools)
